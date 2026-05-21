@@ -55,7 +55,7 @@ Resources
 
 ---
 
-https://www.linkedin.com/in/anjaliii016
+LinkedIn:https://www.linkedin.com/in/anjaliii016
 
 GitHub: https://github.com/anjali09076
 
