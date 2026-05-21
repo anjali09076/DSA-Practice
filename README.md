@@ -2,7 +2,7 @@ DSA Practice — NeetCode 150
 
 Solving NeetCode 150 problems in Java, organized by pattern. Consistent daily practice for placement preparation.
 
-Progress: 3 / 150 problems solved
+Progress: 4 / 150 problems solved
 
 ---
 
@@ -51,11 +51,11 @@ Resources
 
 - NeetCode Website: neetcode.io
 - NeetCode YouTube: youtube.com/c/NeetCode
-- LeetCode Profile: leetcode.com/YOUR_USERNAME
+- LeetCode Profile: leetcode.com/anjali__16___
 
 ---
 
-ttps://www.linkedin.com/in/anjaliii016
+https://www.linkedin.com/in/anjaliii016
 
 GitHub: https://github.com/anjali09076
 
